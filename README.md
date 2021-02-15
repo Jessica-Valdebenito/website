@@ -1,2 +1,2 @@
 # Personal Website
-# License: pixelarity.com/license
+License: pixelarity.com/license
